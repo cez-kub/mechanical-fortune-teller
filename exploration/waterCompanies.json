@@ -1,0 +1,158 @@
+{
+    "company_names": {
+        "major_water_companies": {
+            "American_Water_Works": {
+                "en": ["American Water Works", "AWK"],
+                "es": ["American Water Works"]
+            },
+            "Veolia_Environnement": {
+                "en": ["Veolia Environnement", "VE"],
+                "fr": ["Veolia Environnement"],
+                "es": ["Veolia Medio Ambiente", "Veolia"],
+                "de": ["Veolia Umwelt"]
+            },
+            "Essential_Utilities": {
+                "en": ["Essential Utilities", "Aqua America", "WTRG"],
+                "es": ["Servicios Esenciales"]
+            },
+            "Xylem_Inc": {
+                "en": ["Xylem Inc.", "XYL"],
+                "fr": ["Xylem France"],
+                "de": ["Xylem Deutschland"]
+            },
+            "California_Water_Service_Group": {
+                "en": ["California Water Service Group", "CWT"],
+                "es": ["Grupo de Servicios de Agua de California"]
+            },
+            "Suez_SA": {
+                "fr": ["Suez Environnement", "SEV"],
+                "es": ["Suez Medio Ambiente"],
+                "de": ["Suez Umwelt"]
+            },
+            "Global_Water_Resources": {
+                "en": ["Global Water Resources", "GWRS"],
+                "es": ["Recursos Hídricos Globales"]
+            }
+        }
+    },
+    "general_industry": {
+        "water_supply": {
+            "en": ["water utility", "water supply", "municipal water", "public utility", "water management", "water rights", "water crisis", "water technology", "water efficiency"],
+            "es": ["suministro de agua", "utilidad de agua", "Escasez de agua", "recursos hídricos", "desalinización", "gestión del agua", "infraestructura de agua", "conservación del agua", "tratamiento de aguas residuales", "reciclaje de agua", "contaminación del agua", "derechos de agua", "sequía", "inundación", "crisis del agua", "tecnología del agua", "sostenibilidad", "eficiencia hídrica"],
+            "fr": ["approvisionnement en eau", "service public de l’eau", "Pénurie d’eau", "ressources en eau", "dessalement", "gestion de l’eau", "infrastructures hydrauliques", "conservation de l’eau", "traitement des eaux usées", "recyclage de l’eau", "pollution de l’eau", "droits à l’eau", "sécheresse", "inondation", "crise de l’eau", "technologie de l’eau", "durabilité", "efficacité hydrique"],
+            "de": ["Wasserversorgung", "Wasserwerk", "Wasserknappheit", "Wasserressourcen", "Entsalzung", "Wasserwirtschaft", "Wasserinfrastruktur", "Wassereinsparung", "Abwasserbehandlung", "Wasserrecycling", "Wasserverschmutzung", "Wasserrechte", "Dürre", "Überschwemmung", "Wasserkrise", "Wassertechnologie", "Nachhaltigkeit", "Wassereffizienz"]
+        },
+        "wastewater_treatment": {
+            "en": ["wastewater treatment", "sewage treatment"],
+            "es": ["tratamiento de aguas residuales"],
+            "fr": ["traitement des eaux usées"],
+            "de": ["Abwasserbehandlung"]
+        },
+        "water_infrastructure": {
+            "en": ["water infrastructure", "water pipes", "water infrastructure investment"],
+            "es": ["infraestructura de agua", "inversión en infraestructura de agua"],
+            "fr": ["infrastructure de l’eau"],
+            "de": ["Wasserinfrastruktur"]
+        },
+        "water_technology": {
+            "en": ["water technology", "desalination", "water recycling"],
+            "es": ["tecnología del agua", "desalinización", "reciclaje de agua"],
+            "fr": ["technologie de l’eau", "dessalement", "recyclage de l’eau"],
+            "de": ["Wassertechnologie", "Entsalzung", "Wasserrecycling"]
+        }
+    },
+    "events_and_issues": {
+        "climate_change_drought": {
+            "en": ["drought", "climate change", "water scarcity", "extreme weather", "flood"],
+            "es": ["sequía", "cambio climático", "escasez de agua", "clima extremo"],
+            "fr": ["sécheresse", "changement climatique", "pénurie d’eau", "météo extrême"],
+            "de": ["Dürre", "Klimawandel", "Wasserknappheit", "extremes Wetter"]
+        },
+        "pollution_contamination": {
+            "en": ["water pollution", "water contamination", "microplastics", "lead in water"],
+            "es": ["contaminación del agua", "microplásticos", "plomo en el agua"],
+            "fr": ["pollution de l’eau", "microplastiques", "plomb dans l’eau"],
+            "de": ["Wasserverschmutzung", "Mikroplastik", "Blei im Wasser"]
+        },
+        "regulations_environmental_policy": {
+            "en": ["water regulation", "environmental policy", "clean water act", "infrastructure bill"],
+            "es": ["regulación del agua", "política ambiental", "ley de agua limpia"],
+            "fr": ["réglementation de l’eau", "politique environnementale", "loi sur l’eau propre"],
+            "de": ["Wassergesetz", "Umweltpolitik", "Infrastrukturgesetz"]
+        }
+    },
+    "financial_and_market_sentiment": {
+        "financial_performance_and_investment": {
+            "en": ["profit", "revenue", "growth", "investment", "market share", "dividends", "water utility stocks", "water sector investment", "infrastructure spending", "environmental regulations", "public utility", "ESG", "Environmental, Social, Governance"],
+            "es": ["beneficio", "ingresos", "crecimiento", "inversión", "cuota de mercado", "dividendos", "Acciones de servicios de agua", "inversión en el sector del agua", "gasto en infraestructura", "regulaciones ambientales", "servicios públicos", "ESG (Ambiental", "Social y Gobernanza)"],
+            "fr": ["profit", "revenu", "croissance", "investissement", "part de marché", "dividendes", "Actions de services publics d’eau", "investissement dans le secteur de l’eau", "dépenses d’infrastructure", "réglementations environnementales", "service public", "ESG (Environnemental", "Social", "Gouvernance)"],
+            "de": ["Gewinn", "Umsatz", "Wachstum", "Investition", "Marktanteil", "Dividenden", "Wasseraktien", "Investitionen im Wassersektor", "Infrastrukturausgaben", "Umweltvorschriften", "öffentliche Versorgung", "ESG (Umwelt", "Soziales", "Unternehmensführung)"]
+        },
+        "market_sentiment": {
+            "en": ["water pollution", "water contamination", "microplastics", "lead in water"],
+            "es": ["contaminación del agua", "microplásticos", "plomo en el agua"],
+            "fr": ["pollution de l’eau", "microplastiques", "plomb dans l’eau"],
+            "de": ["Wasserverschmutzung", "Mikroplastik", "Blei im Wasser"]
+        }
+    },
+    "technical_and_innovation": {
+        "water_efficiency_and_conservation": {
+            "en": ["water conservation", "efficiency", "smart water systems", "leak detection"],
+            "es": ["conservación del agua", "eficiencia", "sistemas inteligentes de agua", "detección de fugas"],
+            "fr": ["conservation de l’eau", "efficacité", "systèmes d’eau intelligents", "détection de fuites"],
+            "de": ["Wassereinsparung", "Effizienz", "intelligente Wassersysteme", "Lecksuche"]
+        },
+        "emerging_technologies": {
+            "en": ["AI in water", "IoT in water", "water automation", "digital water"],
+            "es": ["IA en agua", "IoT en agua", "automatización del agua", "agua digital"],
+            "fr": ["IA dans l’eau", "IoT dans l’eau", "automatisation de l’eau", "eau numérique"],
+            "de": ["KI im Wasser", "IoT im Wasser", "Wasserautomatisierung", "digitales Wasser"]
+        }
+    },
+    "regional": {
+        "north_america": {
+            "regional_terms": ["drought management", "water shortage", "water regulation", "aquifer levels", "irrigation", "EPA water standards", "conservation funds", "hydrology"],
+            "company_names": ["American Water Works", "California Water Service", "Aqua America", "Consolidated Water Co", "Essential Utilities"],
+            "events_and_policies": ["Clean Water Act", "Federal drought relief", "water usage restrictions", "pipeline infrastructure"]
+        },
+        "europe": {
+            "en": ["water utility", "water quality", "European water policy", "river basin management", "freshwater resources"],
+            "es": ["abastecimiento de agua", "tratamiento de aguas", "crisis del agua", "gestión hídrica", "regulación de agua", "sequía"],
+            "fr": ["eau potable", "gestion de l’eau", "traitement des eaux usées", "ressources en eau", "assainissement", "règlement de l’eau de l’UE", "pollution de l’eau"],
+            "de": ["Wasserversorgung", "Wasserwirtschaft", "Abwasser", "Wasserknappheit", "Wasserrahmenrichtlinie", "Klimaschutz"],
+            "company_names": ["Veolia", "Suez", "Eau de Paris", "RWE Wasser", "Gelsenwasser AG", "Berliner Wasserbetriebe", "Canal de Isabel II", "Aguas de Barcelona"]
+        },
+        "middle_east_and_north_africa": {
+            "regional_terms": ["المياه", "ندرة المياه", "تحلية المياه", "إدارة المياه", "التلوث المائي", "Saudi Arabia", "UAE", "Egypt — focus on keywords related to desalination technology", "infrastructure investments", "and regional water initiatives"],
+            "events_and_policies": ["أزمة المياه", "التنظيم المائي", "التكيف مع الجفاف"],
+            "company_names": ["National Water Company ", "Metito Holdings "]
+        },
+        "asia": {
+            "india": {
+                "regional_terms": ["जल संकट", "पानी संरक्षण", "जल प्रबंधन", "बाढ़"],
+                "company_names": ["Hindustan Dorr-Oliver", "Indian municipal water suppliers", "Ganga Rejuvenation projects"]
+            },
+            "china": {
+                "regional_terms": ["水资源", "水处理", "水污染", "供水公司"],
+                "events_and_policies": ["水短缺", "水环境保护", "污水处理"],
+                "company_names": ["Beijing Enterprises Water Group", "China Water Affairs"]
+            },
+            "southeast_asia": {
+                "tagalog": ["tubig", "krisis sa tubig", "paggamot sa tubig"],
+                "malay": ["pengurusan air", "krisis air"],
+                "company_names": ["Manila Water", "Ranhill Utilities"]
+            }
+        },
+        "latin_america": {
+            "spanish": {
+                "regional_terms": ["tratamiento de agua", "infraestructura de agua", "reciclaje de agua", "desalinización", "sequía en Chile", "gestión hídrica en México"],
+                "company_names": ["Aguas Andinas", "Sabesp", "Empresas Públicas de Medellín"]
+            },
+            "portugese": {
+                "regional_terms": ["abastecimento de água", "gestão de água", "tratamento de esgoto", "poluição da água", "crise de água", "Brazil", "Peru — public-private partnerships in water management and infrastructure"]
+            }
+        }
+    }
+}
+
+
